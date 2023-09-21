@@ -1,6 +1,6 @@
 ### Hi, I'm Seika!
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 - 💬 Ask me about anything from what is my favourite color to what kind of person I want to become as a growing computer scientist.
 - 📫 How to reach me: **spoels27@colby.edu**
 - 😄 Pronouns: **she/her**
